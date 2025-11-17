@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PustokPB306")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc9a378d9ce67214e9ab3aaf30e22f6047158529")]
 [assembly: System.Reflection.AssemblyProductAttribute("PustokPB306")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PustokPB306")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

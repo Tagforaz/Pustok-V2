@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Migrations\\20251117095358_BlogsCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PustokPB306\\Migrations\\20251117095358_BlogsCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\migrations\\20251117081112_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\migrations\\20251117081112_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\blog\\bgdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\blog\\bgdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\pustokpb306.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\pustokpb306.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +87,16 @@
       "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\views\\home\\faq.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\pustokpb306.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|solutionrelative:pustokpb306\\pustokpb306.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3E65E8D-26E9-4E93-AFB5-9ED0ADE20C9D}|PustokPB306\\PustokPB306.csproj|c:\\users\\tagforaz\\desktop\\pb306\\pustokpb306\\pustokpb306\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,8 +110,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251117095358_BlogsCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Migrations\\20251117095358_BlogsCreated.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Migrations\\20251117095358_BlogsCreated.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Migrations\\20251117095358_BlogsCreated.cs",
+              "RelativeToolTip": "PustokPB306\\Migrations\\20251117095358_BlogsCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:53:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\ViewModels\\BlogVM.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\ViewModels\\BlogVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\ViewModels\\BlogVM.cs",
+              "RelativeToolTip": "PustokPB306\\ViewModels\\BlogVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:48:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Models\\Blog.cs",
+              "RelativeToolTip": "PustokPB306\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:40:08.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\appsettings.json",
+              "RelativeDocumentMoniker": "PustokPB306\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\appsettings.json",
+              "RelativeToolTip": "PustokPB306\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T08:05:21.506Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -86,20 +174,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "PustokPB306\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "PustokPB306\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAADgAAAAAAAAAAAAUwGQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T13:10:37.772Z",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "PustokPB306\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:56:53.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "PustokPB306\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:52:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "PustokPB306\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:59:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Program.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Program.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Program.cs",
+              "RelativeToolTip": "PustokPB306\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:15:26.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PustokPB306\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PustokPB306\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-07T15:19:31.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PustokPB306\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:18:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Models\\Slide.cs",
+              "RelativeToolTip": "PustokPB306\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:53:10.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "PustokPB306\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "PustokPB306\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T13:08:45.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251117081112_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Migrations\\20251117081112_Initial.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\Migrations\\20251117081112_Initial.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Migrations\\20251117081112_Initial.cs",
+              "RelativeToolTip": "PustokPB306\\Migrations\\20251117081112_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:11:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "PustokPB306\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "PustokPB306\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:04:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "PustokPB306\\Views\\Home\\Contact.cshtml",
@@ -113,6 +318,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\Details.cshtml",
+              "RelativeDocumentMoniker": "PustokPB306\\Views\\Blog\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\Details.cshtml",
+              "RelativeToolTip": "PustokPB306\\Views\\Blog\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T13:09:23.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "PustokPB306\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "PustokPB306\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwGQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T13:10:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PustokPB306.csproj",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\PustokPB306.csproj",
+              "RelativeDocumentMoniker": "PustokPB306\\PustokPB306.csproj",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\PustokPB306.csproj",
+              "RelativeToolTip": "PustokPB306\\PustokPB306.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T15:34:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "PustokPB306\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "PustokPB306\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T13:08:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Faq.cshtml",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Home\\Faq.cshtml",
               "RelativeDocumentMoniker": "PustokPB306\\Views\\Home\\Faq.cshtml",
@@ -124,59 +381,12 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "bgDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\bgDetails.cshtml",
-              "RelativeDocumentMoniker": "PustokPB306\\Views\\Blog\\bgDetails.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\bgDetails.cshtml",
-              "RelativeToolTip": "PustokPB306\\Views\\Blog\\bgDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T13:09:23.825Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "PustokPB306\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "PustokPB306\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T13:08:45.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Auth\\Index.cshtml",
-              "RelativeDocumentMoniker": "PustokPB306\\Views\\Auth\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Auth\\Index.cshtml",
-              "RelativeToolTip": "PustokPB306\\Views\\Auth\\Index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwDoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-12T13:08:26.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "PustokPB306\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "PustokPB306\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:59:47.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "PustokPB306\\Controllers\\AuthController.cs",
@@ -184,11 +394,12 @@
               "RelativeToolTip": "PustokPB306\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T12:59:16.822Z"
+              "WhenOpened": "2025-11-12T12:59:16.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "PustokPB306\\Controllers\\ShopController.cs",
@@ -201,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PustokPB306\\Views\\_ViewStart.cshtml",
@@ -209,11 +420,16 @@
               "RelativeToolTip": "PustokPB306\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T15:21:23.289Z"
+              "WhenOpened": "2025-11-07T15:21:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PustokPB306\\Views\\Shared\\_Layout.cshtml",
@@ -226,53 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PustokPB306\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PustokPB306\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:18:41.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PustokPB306\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PustokPB306\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEoKAAAAAAAAAAAAAEoKAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-07T15:19:31.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PustokPB306.csproj",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\PustokPB306.csproj",
-              "RelativeDocumentMoniker": "PustokPB306\\PustokPB306.csproj",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\PustokPB306.csproj",
-              "RelativeToolTip": "PustokPB306\\PustokPB306.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-07T15:34:48.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "main.css",
               "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\wwwroot\\css\\main.css",
               "RelativeDocumentMoniker": "PustokPB306\\wwwroot\\css\\main.css",
@@ -280,19 +450,8 @@
               "RelativeToolTip": "PustokPB306\\wwwroot\\css\\main.css",
               "ViewState": "AgIAAPJDAAAAAAAAAADwvwlEAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-07T15:46:53.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Program.cs",
-              "RelativeDocumentMoniker": "PustokPB306\\Program.cs",
-              "ToolTip": "C:\\Users\\Tagforaz\\Desktop\\Pb306\\PustokPB306\\PustokPB306\\Program.cs",
-              "RelativeToolTip": "PustokPB306\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:15:26.829Z"
+              "WhenOpened": "2025-11-07T15:46:53.196Z",
+              "EditorCaption": ""
             }
           ]
         }
